@@ -1,4 +1,4 @@
-# bruno ferreira
+# bruno ferreira - TI
 
 - Dev
 - Comprador
